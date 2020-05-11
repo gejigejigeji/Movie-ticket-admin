@@ -4,13 +4,13 @@
 ### 前端项目说明
 技术选型：
 
-框架：Vue、vue-router、vueX；
+- 框架：Vue、vue-router、vueX；
 
-Http：Axios、Fetch；
+- Http：Axios、Fetch；
 
-UI：ElementUi
+- UI：ElementUi
 
-其他：quill-editor、VueCropper、腾讯云COS SDK
+- 其他：quill-editor、VueCropper、腾讯云COS SDK
 
 项目内集成了与腾讯云存储COS SDK，通过调用Api只需要传递腾讯云bucket地址和prefix即可获取图片在线链接地址。
 
