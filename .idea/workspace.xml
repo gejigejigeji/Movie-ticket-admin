@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bkbpJYzF779bVTWfMPQ819uAED" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wx-scheme-server" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="115" key="CommitChangelistDialog2" timestamp="1589179273068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589179273068" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1589179235084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589179235084" />
+  </component>
+</project>
