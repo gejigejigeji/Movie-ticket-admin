@@ -55,7 +55,16 @@ wx-scheme-server(后端)；
 
 
 ####前端项目说明
-前端采用了vue、vue-router、vueX、axios，ui使用了elementui，项目内集成了与腾讯云存储COS SDK，通过调用Api只需要传递腾讯云bucket地址和prefix即可获取图片在线链接地址。
+技术选型：
+
+框架：Vue、vue-router、vueX；
+
+Http：Axios、Fetch；
+
+UI：ElementUi
+
+
+项目内集成了与腾讯云存储COS SDK，通过调用Api只需要传递腾讯云bucket地址和prefix即可获取图片在线链接地址。
 
 商城系统的发布会设计到大量的增删改查和有关图片的操作，所以项目内图片上传支持图片操作，旋转、缩放、平移、裁剪与图片同比例压缩，主要采用VueCropper实现；
 
